@@ -1,0 +1,184 @@
+<Root>
+  <Default>
+    <Recipe_Path value="E:\Produce\LD2017\">
+    </Recipe_Path>
+    <Database_Path value="E:\Database\LD2017\">
+    </Database_Path>
+    <Recipe_Name value="LD2013 5.5吋">
+    </Recipe_Name>
+    <Auto_Log_Out value="True">
+    </Auto_Log_Out>
+    <Auto_Log_Out_Time value="5">
+    </Auto_Log_Out_Time>
+    <Other>
+      <Save_OK_Image value="True">
+      </Save_OK_Image>
+      <Save_NG_Image value="True">
+      </Save_NG_Image>
+      <Auto_Delete_File value="True">
+      </Auto_Delete_File>
+      <Write_Log value="True">
+      </Write_Log>
+      <Save_Image_Count value="10">
+      </Save_Image_Count>
+      <CCD1Col value="5.3">
+      </CCD1Col>
+      <CCD1Row value="5.3">
+      </CCD1Row>
+      <CCD2Col value="5.3">
+      </CCD2Col>
+      <CCD2Row value="5.3">
+      </CCD2Row>
+      <Save_Image_Type value="jpg">
+      </Save_Image_Type>
+    </Other>
+    <PLC>
+      <Host value="192.168.99.100">
+      </Host>
+      <Port value="5010">
+      </Port>
+      <In>
+        <Start_Code value="D100">
+        </Start_Code>
+        <Count value="100">
+        </Count>
+      </In>
+      <Out>
+        <Start_Code value="D300">
+        </Start_Code>
+        <Count value="100">
+        </Count>
+      </Out>
+      <Recipe>
+        <Start_Code value="D500">
+        </Start_Code>
+        <Count value="200">
+        </Count>
+      </Recipe>
+      <In_Start_Code value="D100">
+      </In_Start_Code>
+      <Out_Start_Code value="D200">
+      </Out_Start_Code>
+      <Recipe_Start_Code value="D300">
+      </Recipe_Start_Code>
+      <In_Count value="100">
+      </In_Count>
+      <Out_Count value="100">
+      </Out_Count>
+      <Recipe_Count value="200">
+      </Recipe_Count>
+    </PLC>
+    <Light>
+      <Com_Port1 value="1">
+      </Com_Port1>
+      <EFC_Light1_COM_Port value="1">
+      </EFC_Light1_COM_Port>
+    </Light>
+    <Result_Path value="">
+    </Result_Path>
+    <Language value="">
+    </Language>
+    <Light_COM value="1">
+    </Light_COM>
+    <Image>
+      <Save_Sor_Image value="True">
+      </Save_Sor_Image>
+      <Save_OK_Image value="True">
+      </Save_OK_Image>
+      <Save_NG_Image value="True">
+      </Save_NG_Image>
+      <Auto_Delete_File value="False">
+      </Auto_Delete_File>
+      <Write_Log value="True">
+      </Write_Log>
+      <Save_Image_Count value="500">
+      </Save_Image_Count>
+      <Save_Image_Type value="BMP">
+      </Save_Image_Type>
+    </Image>
+    <CCD>
+      <Lens1>
+        <Name value="L_CCD">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_Size_X value="1">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="1">
+        </Pixel_Size_Y>
+      </Lens1>
+      <Lens2>
+        <Name value="R_CCD">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_Size_X value="1">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="1">
+        </Pixel_Size_Y>
+      </Lens2>
+      <Lens3>
+        <Name value="X1">
+        </Name>
+        <Enabled value="False">
+        </Enabled>
+        <Pixel_Size_X value="1">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="1">
+        </Pixel_Size_Y>
+      </Lens3>
+    </CCD>
+    <Print_Format value="E:\Database\LD2017\Format1_Ok.dat">
+    </Print_Format>
+    <Printer_COM_Port value="1">
+    </Printer_COM_Port>
+    <Casette_COM_Port value="2">
+    </Casette_COM_Port>
+    <Base>
+      <Recipe_Path value="E:\Produce\LD4006\">
+      </Recipe_Path>
+      <Database_Path value="E:\Database\LD4006\">
+      </Database_Path>
+      <Recipe_Name value="Test">
+      </Recipe_Name>
+      <Language value="中文">
+      </Language>
+      <Auto_Log_Out value="True">
+      </Auto_Log_Out>
+      <Auto_Log_Out_Time value="5">
+      </Auto_Log_Out_Time>
+      <Cal_White value="True">
+      </Cal_White>
+      <Image_Mult value="1">
+      </Image_Mult>
+    </Base>
+    <Log>
+      <Save_Sor_Image value="True">
+      </Save_Sor_Image>
+      <Save_OK_Image value="True">
+      </Save_OK_Image>
+      <Save_NG_Image value="True">
+      </Save_NG_Image>
+      <Auto_Delete_File value="True">
+      </Auto_Delete_File>
+      <Write_Log value="True">
+      </Write_Log>
+      <Days_Count value="30">
+      </Days_Count>
+      <Save_Image_Type value="BMP">
+      </Save_Image_Type>
+    </Log>
+    <COM_Port>
+      <Printer value="2">
+      </Printer>
+      <Casette_Reader value="2">
+      </Casette_Reader>
+    </COM_Port>
+    <Reader>
+      <Host value="127.0.0.1">
+      </Host>
+      <Port value="0">
+      </Port>
+    </Reader>
+  </Default>
+</Root>

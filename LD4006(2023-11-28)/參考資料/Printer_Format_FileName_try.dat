@@ -1,0 +1,40 @@
+[Format]
+LABEL_VERSION=1.0.0
+FORMAT_CODE=
+^XA
+^MMT,Y                         ;設定列印
+~SD14                         ;列印濃度(00~30)
+^LT30                            ;Label Top位置(-120~120)                                         
+^LS-20                       ;Label Shift(-9999~9999)
+^LH5,5                       ;Label Home
+^XZ                            ;End Format
+
+^XA
+^FO90,50^A0,16,22^FD%Work_ID% ^FS           ;^FOXXX,YYY位置
+^FO90,65^A0,16,22^FD%Store_ID% ^FS            ;^A0,HHH,WWW字體大小
+^FO90,80^A0,16,22^FD%DATE% %VER% ^FS
+^FO90,95^A0,16,22^FD%Panel_ID%^FS
+
+^FO10,42^BY1^BXN,3,200,,,,^FD%Panel_ID%^FS    ;^BXN,size Barcode大小
+^XZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

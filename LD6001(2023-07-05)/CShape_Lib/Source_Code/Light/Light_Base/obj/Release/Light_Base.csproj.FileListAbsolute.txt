@@ -1,0 +1,4 @@
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_Base\bin\Release\Light_Base.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_Base\bin\Release\Light_Base.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_Base\obj\Release\Light_Base.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_Base\obj\Release\Light_Base.pdb

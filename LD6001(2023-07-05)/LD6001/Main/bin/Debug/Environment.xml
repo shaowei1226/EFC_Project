@@ -1,0 +1,172 @@
+<Root>
+  <Default>
+    <Base>
+      <Recipe_Path value="E:\produce\LD6001\">
+      </Recipe_Path>
+      <Database_Path value="E:\Database\LD6001\">
+      </Database_Path>
+      <Recipe_Name value="VCS_20230613">
+      </Recipe_Name>
+      <Language value="中文">
+      </Language>
+      <Auto_Log_Out value="False">
+      </Auto_Log_Out>
+      <Auto_Log_Out_Time value="5">
+      </Auto_Log_Out_Time>
+    </Base>
+    <Log>
+      <Save_Sor_Image value="True">
+      </Save_Sor_Image>
+      <Save_OK_Image value="True">
+      </Save_OK_Image>
+      <Save_NG_Image value="True">
+      </Save_NG_Image>
+      <Auto_Delete_File value="True">
+      </Auto_Delete_File>
+      <Write_Log value="True">
+      </Write_Log>
+      <Save_Image_Count value="500">
+      </Save_Image_Count>
+      <Save_Image_Type value="BMP">
+      </Save_Image_Type>
+      <Days_Count value="30">
+      </Days_Count>
+    </Log>
+    <PLC>
+      <Host value="192.168.1.100">
+      </Host>
+      <Port value="5010">
+      </Port>
+      <COM_Port value="0">
+      </COM_Port>
+      <In_Start_Code value="D100">
+      </In_Start_Code>
+      <In_Count value="100">
+      </In_Count>
+      <Out_Start_Code value="D200">
+      </Out_Start_Code>
+      <Out_Count value="100">
+      </Out_Count>
+      <Recipe_Start_Code value="R20000">
+      </Recipe_Start_Code>
+      <Recipe_Count value="700">
+      </Recipe_Count>
+      <MS_Param_Start_Code value="D800">
+      </MS_Param_Start_Code>
+      <MS_Param_Count value="100">
+      </MS_Param_Count>
+    </PLC>
+    <Light>
+      <EFC_Light_COM_Port value="4">
+      </EFC_Light_COM_Port>
+      <Reader_COM_Port value="3">
+      </Reader_COM_Port>
+    </Light>
+    <CCD>
+      <CCD1>
+        <Name value="Big_L">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="1280">
+        </Pixel_X>
+        <Pixel_Y value="1024">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.1073">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.1073">
+        </Pixel_Size_Y>
+        <CCD_Name value="Big_L">
+        </CCD_Name>
+      </CCD1>
+      <CCD2>
+        <Name value="Big_R">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="1280">
+        </Pixel_X>
+        <Pixel_Y value="1024">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.1073">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.1073">
+        </Pixel_Size_Y>
+        <CCD_Name value="Big_R">
+        </CCD_Name>
+      </CCD2>
+      <CCD3>
+        <Name value="Small_L">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="1280">
+        </Pixel_X>
+        <Pixel_Y value="1024">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.01054">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.01054">
+        </Pixel_Size_Y>
+        <CCD_Name value="Small_L">
+        </CCD_Name>
+      </CCD3>
+      <CCD4>
+        <Name value="Small_R">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="1280">
+        </Pixel_X>
+        <Pixel_Y value="1024">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.01054">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.01054">
+        </Pixel_Size_Y>
+        <CCD_Name value="Small_R">
+        </CCD_Name>
+      </CCD4>
+      <CCD5>
+        <Name value="CCD">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="1024">
+        </Pixel_X>
+        <Pixel_Y value="768">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.01">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.01">
+        </Pixel_Size_Y>
+      </CCD5>
+    </CCD>
+    <Robot1>
+      <Enabled value="True">
+      </Enabled>
+      <Name value="Robot1">
+      </Name>
+      <Project_Name value="C:\EpsonRC70\projects\ZA2203_1\ZA2203_1.sprj">
+      </Project_Name>
+    </Robot1>
+    <Robot2>
+      <Enabled value="True">
+      </Enabled>
+      <Name value="Robot2">
+      </Name>
+      <Project_Name value="C:\EpsonRC70\projects\ZA2203_2\ZA2203_2.sprj">
+      </Project_Name>
+    </Robot2>
+    <Printer>
+      <COM_Port value="3">
+      </COM_Port>
+    </Printer>
+    <Reader>
+      <Host value="127.0.0.1">
+      </Host>
+      <Port value="0">
+      </Port>
+    </Reader>
+  </Default>
+</Root>

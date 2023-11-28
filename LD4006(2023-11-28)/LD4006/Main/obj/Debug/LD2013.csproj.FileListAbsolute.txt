@@ -1,0 +1,2 @@
+E:\C#\Code\Close\LD2013\LD2013\bin\Debug\LD2013.exe.config
+C:\Users\user\Desktop\LD2013\Code\LD2013\LD2013\bin\Debug\LD2013.exe.config

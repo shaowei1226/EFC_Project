@@ -1,0 +1,54 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\obj\x86\Debug\DM200.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\obj\x86\Debug\DM200.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\obj\x86\Debug\DM200.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\obj\x86\Debug\DM200.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\bin\Debug\DM200.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\bin\Debug\DM200.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\bin\Debug\Cognex.Cnx.Common.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\bin\Debug\Cognex.DataMan.SDK.PC.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\bin\Debug\Cognex.DataMan.SDK.Utils.PC.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\bin\Debug\Cognex.DataMan.SDK.PC.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\obj\x86\Debug\DM200.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\DM200\obj\x86\Debug\DM200.pdb
+D:\程式\易發DM200\DM200\DM200\obj\x86\Debug\DM200.exe
+D:\程式\易發DM200\DM200\DM200\obj\x86\Debug\DM200.pdb
+D:\程式\易發DM200\DM200\DM200\obj\x86\Debug\DM200.csprojResolveAssemblyReference.cache
+D:\程式\易發DM200\DM200\DM200\obj\x86\Debug\DM200.Form1.resources
+D:\程式\易發DM200\DM200\DM200\obj\x86\Debug\DM200.Properties.Resources.resources
+D:\程式\易發DM200\DM200\DM200\obj\x86\Debug\DM200.csproj.GenerateResource.Cache
+D:\程式\易發DM200\DM200\DM200\bin\Debug\DM200.exe
+D:\程式\易發DM200\DM200\DM200\bin\Debug\DM200.pdb
+D:\程式\易發DM200\DM200\DM200\bin\Debug\Cognex.Cnx.Common.dll
+D:\程式\易發DM200\DM200\DM200\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.dll
+D:\程式\易發DM200\DM200\DM200\bin\Debug\Cognex.DataMan.SDK.PC.dll
+D:\程式\易發DM200\DM200\DM200\bin\Debug\Cognex.DataMan.SDK.Utils.PC.dll
+D:\程式\易發DM200\DM200\DM200\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+D:\程式\易發DM200\DM200\DM200\bin\Debug\Cognex.DataMan.SDK.PC.xml
+D:\程式\易發DM200\DM200\DM200\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.exe
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.pdb
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\bin\Debug\DM200.exe
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\bin\Debug\DM200.pdb
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\bin\Debug\Cognex.DataMan.SDK.PC.xml
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.csprojResolveAssemblyReference.cache
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.Form1.resources
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.Properties.Resources.resources
+D:\Acer_E1-472G_data\AS3810T_D_Disk\公司相關資料\2D Code\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.csproj.GenerateResource.Cache
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.exe
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.pdb
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\bin\Debug\DM200.exe
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\bin\Debug\DM200.pdb
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\bin\Debug\Cognex.DataMan.SDK.PC.xml
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.csprojResolveAssemblyReference.cache
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.Form1.resources
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.Properties.Resources.resources
+E:\使用軟體\cognex\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.csproj.GenerateResource.Cache
+D:\Users\shaowei.zheng\Desktop\程式整理\LD4006(2023-09-19)\參考資料\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.exe
+D:\Users\shaowei.zheng\Desktop\程式整理\LD4006(2023-09-19)\參考資料\DM200(泛宇2D Code範例)\DM200\obj\x86\Debug\DM200.pdb

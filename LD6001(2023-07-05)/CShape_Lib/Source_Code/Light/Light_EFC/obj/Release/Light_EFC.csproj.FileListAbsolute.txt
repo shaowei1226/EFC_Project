@@ -1,0 +1,9 @@
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_EFC.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_EFC.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_Base.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_Base.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\obj\Release\Light_EFC.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\obj\Release\Light_EFC.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\obj\Release\Light_EFC.pdb
